@@ -9,7 +9,7 @@ Dibuat sebagai Tugas Proyek Akhir Mata Kuliah Deep Learning.
 * **NIM:** 2024071007
 * **Institusi:** Universitas Pembangunan Jaya (UPJ)
 
-## ech Stack & Spesifikasi
+## Tech Stack & Spesifikasi
 * **Detektor:** YOLO11-Small (`best.pt` - Fine-tuned)
 * **Tracker:** ByteTrack dan BoT-SORT
 * **Metrik Evaluasi (Colab):** mAP50: 75.9% | Precision: 88.7%

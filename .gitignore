@@ -1,0 +1,13 @@
+data/raw/
+data/processed/
+
+outputs/demo_results/
+
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+.DS_Store
+Thumbs.db

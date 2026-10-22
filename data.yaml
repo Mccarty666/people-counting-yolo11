@@ -1,0 +1,12 @@
+# data.yaml
+path: ./data/processed/yolo_format # Path direktori utama dataset (relatif terhadap posisi terminal Anda)
+train: train/images                # Sub-path menuju folder gambar training
+val: val/images                    # Sub-path menuju folder gambar validasi
+test: test/images                  # Sub-path menuju folder gambar testing (opsional)
+
+# Jumlah kelas (1 kelas: orang/pedestrian)
+nc: 1
+
+# Nama kelas
+names:
+  0: person

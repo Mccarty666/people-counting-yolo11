@@ -19,4 +19,4 @@ Dibuat sebagai Tugas Proyek Akhir Mata Kuliah Deep Learning.
 ## 🚀 Cara Menjalankan Aplikasi Lokal
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/Mccarty666/people-counting-yolo11.git](https://github.com/username-anda/people-counting-yolo11.git)
+   git clone [https://github.com/Mccarty666/people-counting-yolo11.git](https://github.com/Mccarty666/people-counting-yolo11.git)
